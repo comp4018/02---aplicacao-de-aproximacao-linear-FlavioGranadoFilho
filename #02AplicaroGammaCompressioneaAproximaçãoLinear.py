@@ -9,7 +9,6 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-
 # from time import sleep
 # def pace_exhibition(func):
 #     def wrapper(*args, **kwargs):
