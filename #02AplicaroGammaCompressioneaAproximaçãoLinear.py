@@ -1,6 +1,6 @@
-Flavio Granado Filho
-Ciencia da Computação
-#02 Aplicar o gamma compression e a Aproximação linear
+//Flavio Granado Filho
+//Ciencia da Computação
+//#02 Aplicar o gamma compression e a Aproximação linear
 
 ------------------------------------------------------------ 
 
