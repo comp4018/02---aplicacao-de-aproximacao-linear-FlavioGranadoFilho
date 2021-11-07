@@ -1,6 +1,6 @@
-//Flavio Granado Filho
-//Ciencia da Computacao
-//#02 Aplicar o gamma compression e a Aproximacao linear
+#Flavio Granado Filho
+#Ciencia da Computacao
+#02 Aplicar o gamma compression e a Aproximacao linear
 
 ------------------------------------------------------------ 
 
@@ -95,7 +95,7 @@ if __name__ == '__main__':
     # img_lp.show()
 
     # LP Gamma Correction
-    img_gc = gamma_corrected_img(np.copy(img_lp), gamma=2.2) # Escolher o gama desejado
+    img_gc = gamma_corrected_img(np.copy(img_lp), gamma=2.2)
     # img_gc.show()
 
     # LP Gamma Expansion
