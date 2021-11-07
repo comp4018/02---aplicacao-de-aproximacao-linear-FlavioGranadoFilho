@@ -8,7 +8,6 @@ import numpy as np
 import requests
 from PIL import Image
 from io import BytesIO
-from matplotlib import pyplot as plt
 
 
 # from time import sleep
